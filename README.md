@@ -10,10 +10,8 @@ Curso: Ciência da Computação — FIAP
 
 | Nome Completo | RM |
 |---|---|
-| _(Integrante 1)_ | RM XXXXX |
-| _(Integrante 2)_ | RM XXXXX |
-| _(Integrante 3)_ | RM XXXXX |
-
+| _(Henry)_ | RM 565309 |
+| _(Samuel)_ | RM 564435 |
 > ⚠️ **Preencha a tabela acima com os dados reais antes de entregar.**
 
 ---
